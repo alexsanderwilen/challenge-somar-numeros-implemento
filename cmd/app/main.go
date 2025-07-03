@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/alexsanderwilen/challenge-somar-numeros/internal/somador"
+	"https://github.com/alexsanderwilen/challenge-somar-numeros-implemento/internal/somador"
 )
 
 func main() {
